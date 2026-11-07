@@ -1,1 +1,1 @@
-# Smart-Gloves-for-Sign-Language
+# Smart Gloves for Sign Language
